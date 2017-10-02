@@ -9,6 +9,11 @@
     =============================================
     -->
     <title>NCKU-PHYSICS</title>
+    <!--test css bigin!-->
+    <link href="assets/css0/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css0/freelancer.css" rel="stylesheet">
+    <link href="assets/css0/bootstrap.css" rel="stylesheet">
+    <!--test css end!-->
     <!--  
     Favicons
     =============================================
@@ -73,7 +78,7 @@
               <li><a class="section-scroll" href="#pricing">研究成果</a></li>
               <li><a class="section-scroll" href="#news">招生</a></li>
               <li><a class="section-scroll" href="#contact">網路資源</a></li>
-	      <li><a class="section-scroll" href="#contact">網路資源</a></li>
+
             </ul>
           </div>
         </div>
@@ -86,94 +91,52 @@
           </div>
         </div>
       </section>
+
+
       <div class="main">
         <section class="module" id="services">
           <div class="container">
             <div class="row">
               <div class="col-sm-6 col-sm-offset-3" style="width:878px;margin-left:164.25px">
                 <h2 class="module-title font-alt">公告</h2>
-		<div style="text-align:center">
-		  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8h1blJUtNWIJRSMnkYaYLMWnOiB7aXlw9wxIHjj3toMb4JZw6uSCIAc-v1OjC8uXakoDR7kVyygy0/pubhtml?widget=true&amp;chrome=false&amp;headers=false" height="280" width="800" frameborder="1" style="border-bottom-width:1px;border-bottom-style:solid;border-left-width:1px;border-left-style:solid;border-right-width:1px;border-right-style:solid;border-top-width:1px;border-top-style:solid"></iframe>
-		</div>
+	      </div>
 
-<!--
-                <div class="module-subtitle font-serif">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</div>
-              </div>
-            </div>
-            <div class="row multi-columns-row">
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="features-item">
-                  <div class="features-icon"><span class="icon-lightbulb"></span></div>
-                  <h3 class="features-title font-alt">Ideas and concepts</h3>
-                  <p>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.</p>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="features-item">
-                  <div class="features-icon"><span class="icon-bike"></span></div>
-                  <h3 class="features-title font-alt">Optimised for speed</h3>
-                  <p>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.</p>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="features-item">
-                  <div class="features-icon"><span class="icon-tools"></span></div>
-                  <h3 class="features-title font-alt">Designs &amp; interfaces</h3>
-                  <p>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.</p>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="features-item">
-                  <div class="features-icon"><span class="icon-gears"></span></div>
-                  <h3 class="features-title font-alt">Highly customizable</h3>
-                  <p>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.</p>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="features-item">
-                  <div class="features-icon"><span class="icon-tools-2"></span></div>
-                  <h3 class="features-title font-alt">Coding &amp; development</h3>
-                  <p>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.</p>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="features-item">
-                  <div class="features-icon"><span class="icon-genius"></span></div>
-                  <h3 class="features-title font-alt">Features &amp; plugins</h3>
-                  <p>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.</p>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="features-item">
-                  <div class="features-icon"><span class="icon-mobile"></span></div>
-                  <h3 class="features-title font-alt">Responsive design</h3>
-                  <p>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.</p>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="features-item">
-                  <div class="features-icon"><span class="icon-lifesaver"></span></div>
-                  <h3 class="features-title font-alt">Dedicated support</h3>
-                  <p>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.</p>
-                </div>
-              </div>
--->
-            </div>
+<div class="ysframe2">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8h1blJUtNWIJRSMnkYaYLMWnOiB7aXlw9wxIHjj3toMb4JZw6uSCIAc-v1OjC8uXakoDR7kVyygy0/pubhtml?widget=true&amp;chrome=false&amp;headers=false" width="650px" height="180px" frameborder="1" style="border-bottom-width:1px;border-bottom-style:solid;border-left-width:1px;border-left-style:solid;border-right-width:1px;border-right-style:solid;border-top-width:1px;border-top-style:solid"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR9T-WZIzNr8Eg2Jggslc0l1WobxTJD1yLPj7OX9zvHLd9bXTttTgKU1GL28bb_RrlcIb-V3iy-SmdU/pubhtml?widget=true&amp;headers=false" frameborder="0" width="650px" height="180px" style="border-bottom-width:1px;border-bottom-style:solid;border-left-width:1px;border-left-style:solid;border-right-width:1px;border-right-style:solid;border-top-width:1px;border-top-style:solid"></iframe>
+</div>
+
+<div class="ysframe">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLhPwCbl4-dGNiQqLJhBk2PZABMBin57TP8oXBJILy2ekJZslBocV4Tw1n4rfmRnKUI0IhPUyXEjM5/embed?start=true&loop=true&delayms=3000" frameborder="0" width="500px" height="360px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<style type="text/css">
+.ysframe{ width:300px; height:500px; float:left; margin:10px}
+.ysframe2{ width:650px; height:360px; float:left;margin:10px}
+</style>
+
+		 
+
           </div>
-        </section>
-        <section class="module bg-dark-60" data-background="assets/images/section-6.jpg">
+       	</div>
+      </section>
+     </div>
+
+
+
+
+        <section class="module bg-dark-60" data-background="abc.jpg">
           <div class="container">
             <div class="row">
-              <div class="col-sm-12">
-                <div class="video-box">
-                  <div class="video-box-icon"><a class="video-pop-up" href="https://www.youtube.com/watch?v=TTxZj3DZiIM"><span class="icon-video"></span></a></div>
-                  <div class="video-title font-alt">Presentation</div>
-                  <div class="video-subtitle font-alt">Watch the video about our new products</div>
-                </div>
-              </div>
+
+               
+ 
             </div>
           </div>
         </section>
+
+
+
         <section class="module pb-0" id="works">
           <div class="container">
             <div class="row">
@@ -254,53 +217,1041 @@
           <div class="container">
             <div class="row">
               <div class="col-sm-6 col-sm-offset-3">
-                <h2 class="module-title font-alt">Our features</h2>
-                <div class="module-subtitle font-serif">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</div>
+                <h2 class="module-title font-alt">師資人員</h2>
+		<a href="professor_resume.html">
+                <div class="module-subtitle font-serif">點我點我點我</div>
+		</a>
               </div>
             </div>
-            <div class="row">
+            <div class="row" overflow-y:hidden >
               <div class="col-sm-6 col-md-3 col-lg-3">
                 <div class="alt-features-item">
+		  <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                   <div class="alt-features-icon"><span class="icon-strategy"></span></div>
-                  <h3 class="alt-features-title font-alt">Branding</h3>A wonderful serenity has taken possession of my entire soul like these sweet mornings.
+                  <h3 class="alt-features-title font-alt">固態物理</h3>A wonderful serenity has taken possession of my entire soul like these sweet mornings.
+		  </a>
                 </div>
                 <div class="alt-features-item">
+		  <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
                   <div class="alt-features-icon"><span class="icon-tools-2"></span></div>
-                  <h3 class="alt-features-title font-alt">Development</h3>A wonderful serenity has taken possession of my entire soul like these sweet mornings.
-                </div>
+                  <h3 class="alt-features-title font-alt">量子物理</h3>A wonderful serenity has taken possession of my entire soul like these sweet mornings.
+                  </a>
+		</div>
                 <div class="alt-features-item">
+	          <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
                   <div class="alt-features-icon"><span class="icon-target"></span></div>
-                  <h3 class="alt-features-title font-alt">Marketing</h3>A wonderful serenity has taken possession of my entire soul like these sweet mornings.
-                </div>
+                  <h3 class="alt-features-title font-alt">理論物理</h3>A wonderful serenity has taken possession of my entire soul like these sweet mornings.
+                  </a>
+		</div>
                 <div class="alt-features-item">
+		  <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
                   <div class="alt-features-icon"><span class="icon-tools"></span></div>
-                  <h3 class="alt-features-title font-alt">Design</h3>A wonderful serenity has taken possession of my entire soul like these sweet mornings.
-                </div>
+                  <h3 class="alt-features-title font-alt">高能物理</h3>A wonderful serenity has taken possession of my entire soul like these sweet mornings.
+                  </a>
+		</div>
               </div>
               <div class="col-md-6 col-lg-6 hidden-xs hidden-sm">
-                <div class="alt-services-image align-center"><img src="assets/images/promo.png" alt="Feature Image"></div>
+                <div class="alt-services-image align-center"><img src="department.jpg" alt="Feature Image"></div>
               </div>
               <div class="col-sm-6 col-md-3 col-lg-3">
                 <div class="alt-features-item">
+		  <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
                   <div class="alt-features-icon"><span class="icon-camera"></span></div>
-                  <h3 class="alt-features-title font-alt">Photography</h3>A wonderful serenity has taken possession of my entire soul like these sweet mornings.
-                </div>
+                  <h3 class="alt-features-title font-alt">天文物理</h3>A wonderful serenity has taken possession of my entire soul like these sweet mornings.
+                  </a>
+		</div>
                 <div class="alt-features-item">
+		  <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
                   <div class="alt-features-icon"><span class="icon-mobile"></span></div>
-                  <h3 class="alt-features-title font-alt">Mobile</h3>A wonderful serenity has taken possession of my entire soul like these sweet mornings.
-                </div>
+                  <h3 class="alt-features-title font-alt">名譽與退休教師</h3>A wonderful serenity has taken possession of my entire soul like these sweet mornings.
+                  </a>
+		</div>
                 <div class="alt-features-item">
+		  <a href="#portfolioModal7" class="portfolio-link" data-toggle="modal">
                   <div class="alt-features-icon"><span class="icon-linegraph"></span></div>
-                  <h3 class="alt-features-title font-alt">Music</h3>A wonderful serenity has taken possession of my entire soul like these sweet mornings.
-                </div>
+                  <h3 class="alt-features-title font-alt">博士後與研究人員</h3>A wonderful serenity has taken possession of my entire soul like these sweet mornings.
+                  </a>
+		</div>
                 <div class="alt-features-item">
+		  <a href="#portfolioModal8" class="portfolio-link" data-toggle="modal">
                   <div class="alt-features-icon"><span class="icon-basket"></span></div>
-                  <h3 class="alt-features-title font-alt">Shop</h3>A wonderful serenity has taken possession of my entire soul like these sweet mornings.
-                </div>
+                  <h3 class="alt-features-title font-alt">助教及行政人員</h3>A wonderful serenity has taken possession of my entire soul like these sweet mornings.
+                  </a>
+		</div>
               </div>
             </div>
           </div>
         </section>
+
+	<!------------------------------內文1------------------------------->
+<style type="text/css">
+body
+{
+  background-color:#eee
+}
+.wrap
+{
+  margin:30px auto 0 auto;
+  width:100%;
+  display:flex;
+  align-items:space-around;
+  max-width:1200px;
+}
+.tile
+{
+  width:120px;
+  height:150px;
+  margin:10px;
+  background-color:#99aeff;
+  display:inline-block;
+  background-size:cover;
+  position:relative;
+  cursor:pointer;
+  transition: all 0.4s ease-out;
+  box-shadow: 0px 35px 77px -17px rgba(0,0,0,0.44);
+  overflow:hidden;
+  color:white;
+  font-family:'Roboto';
+  
+}
+.tile img
+{
+  height:100%;
+  width:100%;
+  position:absolute;
+  top:0;
+  left:0;
+  z-index:0;
+  transition: all 0.4s ease-out;
+}
+.tile .text
+{
+/*   z-index:99; */
+  position:relative;
+  top:5px;
+  left:5px;
+  padding:1px;
+  height:calc(100% - 60px);
+}
+.tile p
+{
+  margin:20px 0 0 0;
+  transform: translateX(200px);
+}
+
+.tile span
+{
+  margin:20px 0 0 0;
+  line-height: 25px;
+/*   opacity:0; */
+  transform: translateX(-200px);
+  transition-delay: 0.2s;
+}
+.animate-text
+{
+  opacity:0;
+  transition: all 0.6s ease-in-out;
+}
+.tile:hover
+{
+/*   background-color:#99aeff; */
+box-shadow: 0px 35px 77px -17px rgba(0,0,0,0.64);
+  transform:scale(1.05);
+}
+.tile:hover img
+{
+  opacity: 0.2;
+}
+.tile:hover .animate-text
+{
+  transform:translateX(0);
+  opacity:1;
+}
+.dots
+{
+  position:absolute;
+  bottom:20px;
+  right:30px;
+  margin: 0 auto;
+  width:30px;
+  height:30px;
+  color:currentColor;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:space-around;
+  
+}
+
+.dots span
+{
+    width: 5px;
+    height:5px;
+    background-color: currentColor;
+    border-radius: 50%;
+    display:block;
+  opacity:0;
+  transition: transform 0.4s ease-out, opacity 0.5s ease;
+  transform: translateY(30px);
+ 
+}
+
+.tile:hover span
+{
+  opacity:1;
+  transform:translateY(0px);
+}
+
+.dots span:nth-child(1)
+{
+   transition-delay: 0.05s;
+}
+.dots span:nth-child(2)
+{
+   transition-delay: 0.1s;
+}
+.dots span:nth-child(3)
+{
+   transition-delay: 0.15s;
+}
+
+
+@media (max-width: 1000px) {
+  .wrap {
+   flex-direction: column;
+    width:400px;
+  }
+}
+</style>
+
+<style type="text/css">
+body
+{
+  background-color:#eee
+}
+.wrap2
+{
+  margin:5px auto 0 auto;
+  width:100%;
+  display:flex;
+  align-items:space-around;
+  max-width:1200px;
+}
+.tile2
+{
+  width:88px;
+  height:110px;
+  margin:10px;
+  background-color:#99aeff;
+  display:inline-block;
+  background-size:cover;
+  position:relative;
+  cursor:pointer;
+  transition: all 0.4s ease-out;
+  box-shadow: 0px 35px 77px -17px rgba(0,0,0,0.44);
+  overflow:hidden;
+  color:white;
+  font-family:'Roboto';
+  
+}
+.tile2 img
+{
+  height:100%;
+  width:100%;
+  position:absolute;
+  top:0;
+  left:0;
+  z-index:0;
+  transition: all 0.4s ease-out;
+}
+.tile2 .text
+{
+/*   z-index:99; */
+  position:relative;
+  top:5px;
+  left:5px;
+  padding:1px;
+  height:calc(100% - 60px);
+}
+.tile2 p
+{
+  margin:20px 0 0 0;
+  transform: translateX(200px);
+}
+
+.tile2 span
+{
+  margin:20px 0 0 0;
+  line-height: 25px;
+/*   opacity:0; */
+  transform: translateX(-200px);
+  transition-delay: 0.2s;
+}
+.animate-text
+{
+  opacity:0;
+  transition: all 0.6s ease-in-out;
+}
+.tile2:hover
+{
+/*   background-color:#99aeff; */
+box-shadow: 0px 35px 77px -17px rgba(0,0,0,0.64);
+  transform:scale(1.05);
+}
+.tile2:hover img
+{
+  opacity: 0.2;
+}
+.tile2:hover .animate-text
+{
+  transform:translateX(0);
+  opacity:1;
+}
+.dots
+{
+  position:absolute;
+  bottom:20px;
+  right:30px;
+  margin: 0 auto;
+  width:30px;
+  height:30px;
+  color:currentColor;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:space-around;
+  
+}
+
+.dots span
+{
+    width: 5px;
+    height:5px;
+    background-color: currentColor;
+    border-radius: 50%;
+    display:block;
+  opacity:0;
+  transition: transform 0.4s ease-out, opacity 0.5s ease;
+  transform: translateY(30px);
+ 
+}
+
+.tile2:hover span
+{
+  opacity:1;
+  transform:translateY(0px);
+}
+
+.dots span:nth-child(1)
+{
+   transition-delay: 0.05s;
+}
+.dots span:nth-child(2)
+{
+   transition-delay: 0.1s;
+}
+.dots span:nth-child(3)
+{
+   transition-delay: 0.15s;
+}
+
+
+@media (max-width: 1000px) {
+  .wrap {
+   flex-direction: column;
+    width:400px;
+  }
+}
+</style>
+	
+<style type="text/css">
+.ysfloat{ width:320px; height:415px; float:left; margin: 30px}
+.ysfloat2{ width:680px; height:415px; float:left; margin: 30px}
+</style>
+
+ <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true" >
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+	     <div class="container">
+	    <div>
+		    <h2>固態物理<h2>
+	    </div>
+	    <div class="ysfloat">
+		     <img src="omoi.jpg" alt="">
+
+            </div>
+	    <div class="ysfloat2">
+		    <h5>領域介紹<h5>
+		     <p>固態物理學是凝聚體物理學中最大的分支。它研究的對象是固體，特別是原子排列具有周期性結構的晶體。固態物理學的基本任務是從微觀上解釋固體材料的宏觀物理性質，主要理論基礎是非相對論性的量子力學，還會使用到電動力學、統計物理中的理論。主要方法是應用薛丁格方程式來描述固體物質的電子態，並使用布洛赫波函數表達晶體周期性勢場中的電子態。在此基礎上，發展了固體的能帶論，預言了半導體的存在，並且為電晶體的製造提供理論基礎。</p>
+                     <h5>該領域教授<h5>
+                     <div class="wrap">
+	             <div class="tile"> 
+  <img src='1.jpg'/>
+  <div class="text">
+  <p class="animate-text">蔡錦俊</p>
+  <span class="animate-text">職稱:教授</span>
+<div class="dots">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  </div>
+  </div>
+   <div class="tile"> 
+  <img src='2.jpg'/>
+  <div class="text">
+ <p class="animate-text">蔡錦俊</p>
+  <span class="animate-text">職稱:教授</span>
+<div class="dots">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  </div>
+  </div>
+   <div class="tile"> 
+  <img src='3.jpg'/>
+  <div class="text">
+ <p class="animate-text">蔡錦俊</p>
+  <span class="animate-text">職稱:教授</span>
+<div class="dots">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  </div>
+  </div>
+   <div class="tile"> 
+  <img src='4.jpg'/>
+  <div class="text">
+ <p class="animate-text">蔡錦俊</p>
+  <span class="animate-text">職稱:教授</span>
+<div class="dots">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  </div>
+  </div>
+   <div class="tile"> 
+  <img src='5.jpg'/>
+  <div class="text">
+ <p class="animate-text">蔡錦俊</p>
+  <span class="animate-text">職稱:教授</span>
+<div class="dots">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  </div>
+  </div>
+  
+ </div>
+</div>
+            </div>
+	   
+	    </div>
+            </div>
+	    </div>
+
+ <!-- page quantum-->
+
+     <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+ <div class="container">
+	    <div>
+		    <h2>量子物理<h2>
+	    </div>
+	    <div class="ysfloat">
+		     <img src="quantum.jpg" alt="">
+
+            </div>
+	    <div class="ysfloat2">
+		    <h5>領域介紹<h5>
+		     <p>量子力學（quantum mechanics）是物理學的分支，主要描寫微觀的事物，與相對論一起被認為是現代物理學的兩大基本支柱，許多物理學理論和科學，如原子物理學、固態物理學、核物理學和粒子物理學以及其它相關的學科，都是以其為基礎。
+19世紀末，人們發現舊有的經典理論無法解釋微觀系統，於是經由物理學家的努力，在20世紀初創立量子力學，解釋了這些現象。量子力學從根本上改變人類對物質結構及其交互作用的理解。除透過廣義相對論描寫的重力外，迄今所有基本交互作用均可以在量子力學的框架內描述</p>
+                     <h5>該領域教授<h5>
+  <div class="wrap2">
+
+  <div class="tile2"> 
+  <img src='永成.jpg'/>
+  <div class="text">
+  <p class="animate-text">梁永成</p>
+  <span class="animate-text">職稱:教授</span>
+<div class="dots">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  </div>
+  </div>
+
+  <div class="tile2"> 
+  <img src='岳男.jpg'/>
+  <div class="text">
+ <p class="animate-text">陳岳男</p>
+  <span class="animate-text">職稱:教授</span>
+<div class="dots">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  </div>
+  </div>
+
+   <div class="tile2"> 
+  <img src='忠憲.jpg'/>
+  <div class="text">
+ <p class="animate-text">周忠憲</p>
+  <span class="animate-text">職稱:教授</span>
+<div class="dots">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  </div>
+  </div>
+
+   <div class="tile2"> 
+  <img src='明豪.jpg'/>
+  <div class="text">
+ <p class="animate-text">劉明豪</p>
+  <span class="animate-text">職稱:教授</span>
+<div class="dots">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  </div>
+  </div>
+
+   <div class="tile2"> 
+  <img src='則銘.jpg'/>
+  <div class="text">
+ <p class="animate-text">陳則銘</p>
+  <span class="animate-text">職稱:教授</span>
+<div class="dots">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  </div>
+  </div>
+
+  <div class="tile2"> 
+  <img src='為民.jpg'/>
+  <div class="text">
+ <p class="animate-text">張為民</p>
+  <span class="animate-text">職稱:教授</span>
+<div class="dots">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  </div>
+  </div> 
+
+ </div>
+
+
+  <div class="wrap2">
+
+  <div class="tile2"> 
+  <img src='苗.jpg'/>
+  <div class="text">
+ <p class="animate-text">苗順培</p>
+  <span class="animate-text">職稱:教授</span>
+<div class="dots">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  </div>
+  </div>
+
+ <div class="tile2"> 
+  <img src='祖斌.jpg'/>
+  <div class="text">
+ <p class="animate-text">許祖斌</p>
+  <span class="animate-text">職稱:教授</span>
+<div class="dots">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  </div>
+  </div>
+
+<div class="tile2"> 
+  <img src='緒濃.jpg'/>
+  <div class="text">
+ <p class="animate-text">楊緒濃</p>
+  <span class="animate-text">職稱:教授</span>
+<div class="dots">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  </div>
+  </div>
+
+ </div>
+</div>
+        </div>
+        </div>
+        </div>
+    </div>
+
+
+     <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>理論物理</h2>
+                            <img src="wallpaper.jpg" width=70% alt="">
+                            <p>
+                            A Toroidal LHC ApparatuS (ATLAS)
+                            </p>
+                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+     <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>高能物理</h2>
+                            <img src="wallpaper.jpg" width=70% alt="">
+                            <p>
+                            A Toroidal LHC ApparatuS (ATLAS)
+                            </p>
+                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+     <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>天文物理</h2>
+                            <img src="wallpaper.jpg" width=70% alt="">
+                            <p>
+                            A Toroidal LHC ApparatuS (ATLAS)
+                            </p>
+                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+     <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>名譽與退休教師</h2>
+                            <img src="wallpaper.jpg" width=70% alt="">
+                            <p>
+                            A Toroidal LHC ApparatuS (ATLAS)
+                            </p>
+                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+     <div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>博士後與研究人員</h2>
+                            <img src="wallpaper.jpg" width=70% alt="">
+                            <p>
+                            A Toroidal LHC ApparatuS (ATLAS)
+                            </p>
+                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+     <div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>助教與行政人員</h2>
+                            <img src="wallpaper.jpg" width=70% alt="">
+                            <p>
+                            A Toroidal LHC ApparatuS (ATLAS)
+                            </p>
+                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<style type="text/css">
+#portfolio .portfolio-item {
+    right: 0;
+    margin: 0 0 15px;
+}
+
+#portfolio .portfolio-item .portfolio-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+#portfolio .portfolio-item .portfolio-link .caption {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    /* background: rgba(24,188,156,.9); */
+    background: rgba(24,188,156,.9);
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+}
+
+#portfolio .portfolio-item .portfolio-link .caption:hover {
+    opacity: 1;
+}
+
+#portfolio .portfolio-item .portfolio-link .caption .caption-content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 20px;
+    margin-top: -12px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+
+}
+
+#portfolio .portfolio-item .portfolio-link .caption .caption-content i {
+    margin-top: -12px;
+}
+
+#portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
+#portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
+    margin: 0;
+}
+
+#portfolio * {
+    z-index: 2;
+    overflow-y:hidden
+}
+
+@media(min-width:767px) {
+    #portfolio .portfolio-item {
+        margin: 0 0 30px;
+    }
+}
+.portfolio-modal .modal-content {
+    padding: 100px 0;
+    min-height: 100%;
+    border: 0;
+    border-radius: 0;
+    text-align: center;
+    background-clip: border-box;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    overflow-y:hidden
+
+}
+
+.portfolio-modal .modal-content h2 {
+    margin: 0;
+    font-size: 3em;
+}
+
+.portfolio-modal .modal-content img {
+    margin-bottom: 30px;
+}
+
+.portfolio-modal .modal-content .item-details {
+    margin: 30px 0;
+}
+
+.portfolio-modal .close-modal {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    width: 75px;
+    height: 75px;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.portfolio-modal .close-modal:hover {
+    opacity: .3;
+}
+
+.portfolio-modal .close-modal .lr {
+    z-index: 1051;
+    width: 1px;
+    height: 75px;
+    margin-left: 35px;
+    background-color: #2c3e50;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.portfolio-modal .close-modal .lr .rl {
+    z-index: 1052;
+    width: 1px;
+    height: 75px;
+    background-color: #2c3e50;
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.portfolio-modal .modal-backdrop {
+    display: none;
+    opacity: 0;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+@media (min-width: 1200px) {
+  .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
+    float: left;
+  }
+  .col-lg-12 {
+    width: 100%;
+  }
+  .col-lg-11 {
+    width: 91.66666667%;
+  }
+  .col-lg-10 {
+    width: 83.33333333%;
+  }
+  .col-lg-9 {
+    width: 75%;
+  }
+  .col-lg-8 {
+    width: 66.66666667%;
+  }
+  .col-lg-7 {
+    width: 58.33333333%;
+  }
+  .col-lg-6 {
+    width: 50%;
+  }
+  .col-lg-5 {
+    width: 41.66666667%;
+  }
+  .col-lg-4 {
+    width: 33.33333333%;
+  }
+  .col-lg-3 {
+    width: 25%;
+  }
+  .col-lg-2 {
+    width: 16.66666667%;
+  }
+  .col-lg-1 {
+    width: 8.33333333%;
+  }
+  .col-lg-pull-12 {
+    right: 100%;
+  }
+  .col-lg-pull-11 {
+    right: 91.66666667%;
+  }
+  .col-lg-pull-10 {
+    right: 83.33333333%;
+  }
+  .col-lg-pull-9 {
+    right: 75%;
+  }
+  .col-lg-pull-8 {
+    right: 66.66666667%;
+  }
+  .col-lg-pull-7 {
+    right: 58.33333333%;
+  }
+  .col-lg-pull-6 {
+    right: 50%;
+  }
+  .col-lg-pull-5 {
+    right: 41.66666667%;
+  }
+  .col-lg-pull-4 {
+    right: 33.33333333%;
+  }
+  .col-lg-pull-3 {
+    right: 25%;
+  }
+  .col-lg-pull-2 {
+    right: 16.66666667%;
+  }
+  .col-lg-pull-1 {
+    right: 8.33333333%;
+  }
+  .col-lg-pull-0 {
+    right: auto;
+  }
+  .col-lg-push-12 {
+    left: 100%;
+  }
+  .col-lg-push-11 {
+    left: 91.66666667%;
+  }
+  .col-lg-push-10 {
+    left: 83.33333333%;
+  }
+  .col-lg-push-9 {
+    left: 75%;
+  }
+  .col-lg-push-8 {
+    left: 66.66666667%;
+  }
+  .col-lg-push-7 {
+    left: 58.33333333%;
+  }
+  .col-lg-push-6 {
+    left: 50%;
+  }
+  .col-lg-push-5 {
+    left: 41.66666667%;
+  }
+  .col-lg-push-4 {
+    left: 33.33333333%;
+  }
+  .col-lg-push-3 {
+    left: 25%;
+  }
+  .col-lg-push-2 {
+    left: 16.66666667%;
+  }
+  .col-lg-push-1 {
+    left: 8.33333333%;
+  }
+  .col-lg-push-0 {
+    left: auto;
+  }
+  .col-lg-offset-12 {
+    margin-left: 100%;
+  }
+  .col-lg-offset-11 {
+    margin-left: 91.66666667%;
+  }
+  .col-lg-offset-10 {
+    margin-left: 83.33333333%;
+  }
+  .col-lg-offset-9 {
+    margin-left: 75%;
+  }
+  .col-lg-offset-8 {
+    margin-left: 66.66666667%;
+  }
+  .col-lg-offset-7 {
+    margin-left: 58.33333333%;
+  }
+  .col-lg-offset-6 {
+    margin-left: 50%;
+  }
+  .col-lg-offset-5 {
+    margin-left: 41.66666667%;
+  }
+  .col-lg-offset-4 {
+    margin-left: 33.33333333%;
+  }
+  .col-lg-offset-3 {
+    margin-left: 25%;
+  }
+  .col-lg-offset-2 {
+    margin-left: 16.66666667%;
+    float:left
+  }
+  .col-lg-offset-1 {
+    margin-left: 8.33333333%;
+  }
+  .col-lg-offset-0 {
+    margin-left: 0%;
+  }
+
+</style>
+
+
+
         <hr class="divider-w">
         <section class="module" id="team">
           <div class="container">
@@ -831,3 +1782,4 @@
     <script src="assets/js/main.js"></script>
   </body>
 </html>
+
