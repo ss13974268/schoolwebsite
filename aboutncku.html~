@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--  
+    Document Title
+    =============================================
+    -->
+    <title>Titan | Multipurpose HTML5 Template</title>
+    <!--  
+    Favicons
+    =============================================
+    -->
+    <link rel="apple-touch-icon" sizes="57x57" href="assets/images/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="assets/images/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/images/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/images/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/images/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="assets/images/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/images/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="assets/images/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/images/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="assets/images/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="assets/images/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <!--  
+    Stylesheets
+    =============================================
+    -->
+    <style type="text/css">
+    .ysfont{
+	    margin:0;
+            padding:0;
+            font-family:\5FAE\8EDF\6B63\9ED1\9AD4,"Microsoft JhengHei",MingLiU,sans-serif;
+    }
+    </style>
+    <!-- Default stylesheets-->
+    <link href="assets/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Template specific stylesheets-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Volkhov:400i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+    <link href="assets/lib/animate.css/animate.css" rel="stylesheet">
+    <link href="assets/lib/components-font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="assets/lib/et-line-font/et-line-font.css" rel="stylesheet">
+    <link href="assets/lib/flexslider/flexslider.css" rel="stylesheet">
+    <link href="assets/lib/owl.carousel/dist/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="assets/lib/owl.carousel/dist/assets/owl.theme.default.min.css" rel="stylesheet">
+    <link href="assets/lib/magnific-popup/dist/magnific-popup.css" rel="stylesheet">
+    <link href="assets/lib/simple-text-rotator/simpletextrotator.css" rel="stylesheet">
+    <!-- Main stylesheet and color file-->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link id="color-scheme" href="assets/css/colors/default.css" rel="stylesheet">
+  </head>
+  <body data-spy="scroll" data-target=".onpage-navigation" data-offset="60">
+    <main>
+      <div class="page-loader">
+        <div class="loader">Loading...</div>
+      </div>
+      <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+          <div class="navbar-header">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#custom-collapse"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="index.html">NCKU PHYSICS</a>
+          </div>
+	    <div class="collapse navbar-collapse" id="custom-collapse">
+            <ul class="nav navbar-nav navbar-right">
+		    <!--<li><a href="#totop">Home</a></li>-->
+              <li><a class="section-scroll ysfont" href="index.html">首頁</a></li>
+              <li><a class="section-scroll ysfont" href="#quantum_information">本系沿革</a></li>
+              <li><a class="section-scroll ysfont" href="#nanotechnology">系主任</a></li>
+              <li><a class="section-scroll ysfont" href="#gravity">系所設備</a></li>
+              <li><a class="section-scroll ysfont" href="#ultracold_atom">系所章程</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <div class="main">
+        <section class="module bg-dark-30 parallax-bg restaurant-menu-bg" data-background="assets/images/restaurant/cake_pastries_bg.jpg" id="quantum_information">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-2 col-sm-offset-5">
+                <div class="alt-module-subtitle"><span class="holder-w"></span>
+                  <h5 class="font-serif ysfont">NCKU PHYSICS</h5><span class="holder-w"></span>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
+                <h2 class="module-title  ysfont mb-0">本系沿革</h2>
+              </div>
+            </div>
+          </div>
+        </section>
+
+
+	 <section class="module" style="padding-top:20px;padding-bottom:20px">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
+                <h4 class="font-alt mb-0">本系沿革</h4>
+                <hr class="divider-w mt-10 mb-20">
+                <p>民國四十五年，本校前身台灣省立工學院改制為省立成功大學時，物理系正式成立。開始培育物理方面之人才。民國六十年，本校改制為國立成功大學，同年成立物理研究所碩士班，積極發展基礎科學之研究。</p>
+		<p>此後十餘年，秉持教學與研究並重之原則，先後充實並建立了九個教學實驗室和十二個研究實驗室，並積極延攬人才、充實師資。畢業系友遍佈各大學及研究機構。七十七年增設博士班，為提昇研究水準，除繼 續充實師資及改善研究環境外，目前積極建立低溫物理、薄膜物理、表面科學、光電科學及非線性科 學等研究群。詳細請見成大物理五十週年慶系刊</p>
+		<br>
+
+
+                <h4 class="font-alt mb-0">目標與理念</h4>
+                <hr class="divider-w mt-10 mb-20">
+
+			<p>培養物理人才以配合國家的需要，兼顧理論與實驗，基礎與應用。</p>
+			大學部的重點是傳授物理學的基本知識，教導物理學的實驗，讓學生能澈底了解基本物理學的精髓，奠定往後繼續深造或到社會上工作所 需的物理學基礎。<br>
+研究所傳授較高深的物理學知識，指導學生從事物理學的研究，訓練學生獨立思考、研究的能力，誘發學生創造的潛力。使學生畢業之後，無論從事教學或研究均能對 社會、人類有重大的貢獻。
+			
+
+                        <br>
+			<br>
+			<br>
+
+                <h4 class="font-alt mb-0">研究發展</h4>
+                <hr class="divider-w mt-10 mb-20">
+
+			<p>在實驗方面將積極延聘低溫、超導、磁性、光電方面的人才，以充實師資，加強並擴大這三方面的研究工作及研究領域。同時延攬資深或富有潛力的固態、統計、高能理論人才，以從事尖端的物理研究，以期理論與實驗物理之研究有較均衡之發展。</p>
+		
+
+
+         </section>
+
+
+
+
+        <section class="module bg-dark-30 parallax-bg restaurant-menu-bg" data-background="assets/images/restaurant/soup_salad_bg.jpg" id="nanotechnology">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-2 col-sm-offset-5">
+                <div class="alt-module-subtitle"><span class="holder-w"></span>
+                  <h5 class="font-serif ysfont">NCKU PHYSICS</h5><span class="holder-w"></span>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
+                <h2 class="module-title  ysfont mb-0">系主任</h2>
+              </div>
+            </div>
+          </div>
+        </section>
+
+
+        <section class="module" style="padding-top:20px;padding-bottom:20px">
+          <div class="container">
+            <div class="row multi-columns-row">
+
+         </section>
+
+
+
+
+
+
+        <section class="module bg-dark-30 parallax-bg restaurant-menu-bg" data-background="assets/images/restaurant/meat_fish_bg.jpg" id="gravity">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-2 col-sm-offset-5">
+                <div class="alt-module-subtitle"><span class="holder-w"></span>
+                  <h5 class="font-serif ysfont">NCKU PHYSICS</h5><span class="holder-w"></span>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
+                <h2 class="module-title  ysfont mb-0">系所設備</h2>
+              </div>
+            </div>
+          </div>
+        </section>
+
+
+        <section class="module" style="padding-top:20px;padding-bottom:20px">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
+                <h4 class="font-alt mb-0">硬體設備</h4>
+                <hr class="divider-w mt-10 mb-20">
+                <p>視聽教室、普物實驗室3 間、電磁學、電子學實驗室、光學、近代物理實驗室、磁性材料、超聲波、低溫物理、光學薄膜、光散射、氦液化室、微擾角光譜實驗室以及非線性與訊號處理實驗室、錄放影機2台、投影機3部、幻燈機2台。(各實驗室詳細設備請參看 研究群組 )</p>
+	
+		<br>
+
+
+                <h4 class="font-alt mb-0">軟體設備</h4>
+                <hr class="divider-w mt-10 mb-20">
+
+		期刊 : 中文20種、外文87種<br>
+                論文及報告 : 本系各屆碩士、博士論文<br>
+		視聽教材 : 普物實驗教學錄影帶10多片<br>
+		資訊軟體 : PC 軟體數十種<br>
+		成功大學總圖書館 : 物理圖書約八千餘冊<br>
+         </section>
+
+
+
+
+
+
+        <section class="module bg-dark-30 parallax-bg restaurant-menu-bg" data-background="assets/images/restaurant/meat_fish_bg.jpg" id="ultracold_atom">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-2 col-sm-offset-5">
+                <div class="alt-module-subtitle"><span class="holder-w"></span>
+                  <h5 class="font-serif ysfont">NCKU PHYSICS</h5><span class="holder-w"></span>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
+                <h2 class="module-title  ysfont mb-0">系所章程</h2>
+              </div>
+            </div>
+          </div>
+        </section>
+
+
+        <section class="module" style="padding-top:20px;padding-bottom:20px">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
+                <div class="panel-group" id="accordion">
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title font-alt"><a data-toggle="collapse" data-parent="#accordion" href="#support1">大學部相關規章</a></h4>
+                    </div>
+                    <div class="panel-collapse collapse in" id="support1">
+                      <div class="panel-body">
+			      <a>國立成功大學學則</a><br>
+			      <a>各學年入學學生英語畢業門檻規定</a><br>
+			      <a>國立成功大學各學系學生修讀輔系辦法</a><br>
+			      <a>國立成功大學各學系學生修讀雙主修辦法</a><br>
+			      <a>國立成功大學通識課程選修要點（102學年入學生適用）</a><br>
+			      <a>國立成功大學進修學士班學則</a><br>
+			      <a>國立成功大學教育學程修習辦法</a><br>
+			      <a>國立成功大學服務學習課程補助及獎勵要點</a><br>
+			      <a>國立成功大學國內交換生實施要點</a><br>
+			      <a>國立成功大學學生逕行修讀博士學位作業規定</a><br>
+			      <a>國立成功大學學生申請轉系辦法</a><br>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title font-alt"><a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#support2">碩士班相關規章</a></h4>
+                    </div>
+                    <div class="panel-collapse collapse" id="support2">
+                      <div class="panel-body">
+			      <a>國立成功大學各系（所）博碩士撰寫論文須知</a><br>
+			      <a>國立成功大學研究生申請更換指導教授原則</a><br>
+			      <a>國立成功大學研究生獎、助學金實施辦法</a><br>
+			      <a>國立成功大學研究生學位考試細則</a><br>
+
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title font-alt"><a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#support3">博士班相關規章</a></h4>
+                    </div>
+                    <div class="panel-collapse collapse" id="support3">
+                      <div class="panel-body">
+			      <a>成功大學法規彙編</a><br>
+			      <a>國立成功大學各系（所）博碩士撰寫論文須知</a><br>
+			      <a>國立成功大學研究生獎、助學金實施辦法</a><br>
+
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title font-alt"><a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#support4">教職員相關規章</a></h4>
+                    </div>
+                    <div class="panel-collapse collapse" id="support4">
+                      <div class="panel-body">
+			      <a>升等初審</a><br>
+			      <a>成功大學物理系教師聘任辦法</a><br>
+			      <a>成功大學學務處約聘人員年終考核獎勵辦法</a><br>
+			      <a>物理系系主任推選辦法</a><br>
+			      <a>物理系教師評量細則</a><br>
+			      <a>物理系教學特優教師遴選</a><br>
+			      <a>國立成功大學各學院教師評審委員會設置辦法</a><br>
+			      <a>國立成功大學研究人員聘任及升等辦法</a><br>
+			      <a>國立成功大學特聘教授設置要點</a><br>
+			      <a>國立成功大學教師出國講學及國內外研究進修申請作業要點</a><br>
+			      <a>國立成功大學教師申請出國作業要點</a><br>
+			      <a>國立成功大學教師評審委員會設置辦法</a><br>
+			      <a>國立成功大學教師請假補課、代課規定及鐘點費核計辦法</a><br>
+			      <a>國立成功大學教授、副教授休假研究辦法</a><br>
+			      <a>國立成功大學理學院延攬留住及獎勵特殊優秀人才彈性薪資支給原則</a><br>
+			      <a>國立成功大學暑期開班授課實施辦法</a><br>
+			      <a>國立成功大學臨時人員工作規則</a><br>
+			      <a>理學院校長遴選委員候選人推舉辦法</a><br>
+			      <a>理學院教師升等辦法</a><br>
+			      <a>理學院教師評量要點</a><br>
+			      <a>理學院教師評審委員會設置辦法</a><br>
+			      <a>理學院教師聘任辦法</a><br>
+			      <a>論文審查委員</a><br>
+	
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+	</section>
+
+
+
+
+
+
+
+
+
+	<footer class="footer bg-dark">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-6">
+                <p class="copyright font-alt">&copy; 2017&nbsp;<a href="index.html">TitaN</a>, All Rights Reserved</p>
+              </div>
+              <div class="col-sm-6">
+                <div class="footer-social-links"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-dribbble"></i></a><a href="#"><i class="fa fa-skype"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </footer>
+        <div class="scroll-up"><a href="#totop"><i class="fa fa-angle-double-up"></i></a></div>
+      </div>
+    </main>
+    <!--  
+    JavaScripts
+    =============================================
+    -->
+    <script src="assets/lib/jquery/dist/jquery.js"></script>
+    <script src="assets/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="assets/lib/wow/dist/wow.js"></script>
+    <script src="assets/lib/jquery.mb.ytplayer/dist/jquery.mb.YTPlayer.js"></script>
+    <script src="assets/lib/isotope/dist/isotope.pkgd.js"></script>
+    <script src="assets/lib/imagesloaded/imagesloaded.pkgd.js"></script>
+    <script src="assets/lib/flexslider/jquery.flexslider.js"></script>
+    <script src="assets/lib/owl.carousel/dist/owl.carousel.min.js"></script>
+    <script src="assets/lib/smoothscroll.js"></script>
+    <script src="assets/lib/magnific-popup/dist/jquery.magnific-popup.js"></script>
+    <script src="assets/lib/simple-text-rotator/jquery.simple-text-rotator.min.js"></script>
+    <script src="assets/js/plugins.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
